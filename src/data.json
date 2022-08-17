@@ -1,0 +1,194 @@
+[
+    {
+        "type": "house",
+        "price": "1000",
+        "img": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8aG91c2V8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+        "city": "Delhi",
+        "address": "1960 Lorem Ipsum dummy",
+        "date": "2022-09-30"
+    },
+    {
+        "type": "house",
+        "price": "1000",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8aG91c2V8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+        "city": "Bengaluru",
+        "address": "1960 Lorem Ipsum dummy",
+        "date": "2022-09-30"
+    },
+    {
+        "type": "house",
+        "price": "1000",
+        "img": "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGhvdXNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "city": "Chennai",
+        "address": "1960 Lorem Ipsum dummy",
+        "date": "2022-10-30"
+    },
+    {
+        "type": "house",
+        "price": "2000",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8aG91c2V8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+        "city": "Mumbai",
+        "address": "1960 Lorem Ipsum dummy",
+        "date": "2022-10-30"
+    },
+    {
+        "type": "house",
+        "price": "1000",
+        "img": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8aG91c2V8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+        "city": "Delhi",
+        "address": "1960 Lorem Ipsum dummy",
+        "date": "2022-09-30"
+    },
+    {
+        "type": "house",
+        "price": "2000",
+        "img": "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGhvdXNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "city": "Bengaluru",
+        "address": "1960 Lorem Ipsum dummy",
+        "date": "2022-09-30"
+    },
+    {
+        "type": "house",
+        "price": "2000",
+        "img": "https://images.unsplash.com/photo-1572120360610-d971b9d7767c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGhvdXNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "city": "Chennai",
+        "address": "1960 Lorem Ipsum dummy",
+        "date": "2022-11-30"
+    },
+    {
+        "type": "house",
+        "price": "2000",
+        "img": "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGhvdXNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "city": "Mumbai",
+        "address": "1960 Lorem Ipsum dummy",
+        "date": "2022-11-30"
+    },
+    {
+        "type": "house",
+        "price": "3000",
+        "img": "https://images.unsplash.com/photo-1572120360610-d971b9d7767c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGhvdXNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "city": "Delhi",
+        "address": "1960 Lorem Ipsum dummy",
+        "date": "2022-09-30"
+    },
+    {
+        "type": "house",
+        "price": "3000",
+        "img": "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGhvdXNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "city": "Bengaluru",
+        "address": "1960 Lorem Ipsum dummy",
+        "date": "2022-09-30"
+    },
+    {
+        "type": "house",
+        "price": "3000",
+        "img": "https://images.unsplash.com/photo-1572120360610-d971b9d7767c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGhvdXNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "city": "Chennai",
+        "address": "1960 Lorem Ipsum dummy",
+        "date": "2022-11-30"
+    },
+    {
+        "type": "house",
+        "price": "3000",
+        "img": "https://images.unsplash.com/photo-1480074568708-e7b720bb3f09?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGhvdXNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "city": "Mumbai",
+        "address": "1960 Lorem Ipsum dummy",
+        "date": "2022-11-30"
+    },
+    {
+        "type": "apartment",
+        "price": "3000",
+        "img":"https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YXBhcnRtZW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "city": "Delhi",
+        "address": "1960 Lorem Ipsum dummy",
+        "date": "2022-09-30"
+    },
+    {
+        "type": "apartment",
+        "price": "3000",
+        "img": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8YXBhcnRtZW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "city": "Bengaluru",
+        "address": "1960 Lorem Ipsum dummy",
+        "date": "2022-09-30"
+    },
+    {
+        "type": "apartment",
+        "price": "3000",
+        "img":"https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YXBhcnRtZW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "city": "Chennai",
+        "address": "1960 Lorem Ipsum dummy",
+        "date": "2022-10-30"
+    },
+    {
+        "type": "apartment",
+        "price": "3000",
+        "img": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8YXBhcnRtZW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "city": "Mumbai",
+        "address": "1960 Lorem Ipsum dummy",
+        "date": "2022-11-30"
+    },
+    {
+        "type": "apartment",
+        "price": "2000",
+        "img":"https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YXBhcnRtZW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "city": "Delhi",
+        "address": "1960 Lorem Ipsum dummy",
+        "date": "2022-11-30"
+    },
+    {
+        "type": "apartment",
+        "price": "2000",
+        "img": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8YXBhcnRtZW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "city": "Bengaluru",
+        "address": "1960 Lorem Ipsum dummy",
+        "date": "2022-10-30"
+    },
+    {
+        "type": "apartment",
+        "price": "2000",
+        "img":"https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YXBhcnRtZW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "city": "Chennai",
+        "address": "1960 Lorem Ipsum dummy",
+        "date": "2022-10-30"
+    },
+    {
+        "type": "apartment",
+        "price": "2000",
+        "img": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8YXBhcnRtZW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "city": "Mumbai",
+        "address": "1960 Lorem Ipsum dummy",
+        "date": "2022-11-30"
+    },
+    {
+        "type": "apartment",
+        "price": "1000",
+        "img":"https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YXBhcnRtZW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "city": "Delhi",
+        "address": "1960 Lorem Ipsum dummy",
+        "date": "2022-11-30"
+    },
+    {
+        "type": "apartment",
+        "price": "1000",
+        "img": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8YXBhcnRtZW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "city": "Bengaluru",
+        "address": "1960 Lorem Ipsum dummy",
+        "date": "2022-11-30"
+    },
+    {
+        "type": "apartment",
+        "price": "1000",
+        "img":"https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YXBhcnRtZW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "city": "Chennai",
+        "address": "1960 Lorem Ipsum dummy",
+        "date": "2022-10-30"
+    },
+    {
+        "type": "apartment",
+        "price": "1000",
+        "img": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8YXBhcnRtZW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "city": "Mumbai",
+        "address": "1960 Lorem Ipsum dummy",
+        "date": "2022-10-30"
+    }
+]
